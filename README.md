@@ -1,6 +1,9 @@
 # Flight Price Prediction
 
 - <img src="https://github.com/VIJAY626404/Flight-Fare-Prediction/blob/main/Outputs/flight2.png" alt="Output Example" width="800"/>
+![GitHub last commit](https://img.shields.io/github/last-commit/VIJAY626404/Flight-Fare-Prediction)
+![GitHub issues](https://img.shields.io/github/issues/VIJAY626404/Flight-Fare-Prediction)
+![GitHub license](https://img.shields.io/github/license/VIJAY626404/Flight-Fare-Prediction)
 
 ## Table of Contents
 - [Introduction](#introduction)
